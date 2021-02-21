@@ -4,11 +4,11 @@
 
 ### Projects for Company
 
-[Machine learning for satellite imagery (National University of Singapore)]
+[Machine learning for satellite imagery (National University of Singapore)]()
 <img src="images/sondra.png?raw=true"/>
 
 ---
-[Natural language processing of audit documents (Caisse des Dépôts)]
+[Natural language processing of audit documents (Caisse des Dépôts)]()
 <img src="images/nlp.png?raw=true"/>
 
 ---
