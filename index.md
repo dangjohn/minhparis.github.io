@@ -2,18 +2,18 @@
 
 ---
 
-### Projects for Company
+### Company Projects
 
 [Machine learning for satellite imagery (National University of Singapore)]()
 <img src="images/sondra.png?raw=true"/>
 
 ---
-[Natural language processing of audit documents (Caisse des Dépôts)]()
+[Natural language processing for audit documents (Caisse des Dépôts)]()
 <img src="images/nlp.png?raw=true"/>
 
 ---
 
-### Master Project
+### Master Projects
 
 - [Deep learning approaches for Sentiment140 dataset](https://github.com/XanX3601/deep_sentiment140)
 - [Black box network attack](https://github.com/minhparis/robust-neural-nets)
