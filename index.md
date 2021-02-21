@@ -2,40 +2,36 @@
 
 ---
 
-### Category Name 1 
+### Projects for Company
 
-[Project 1 Title](/sample_page)
+[Machine learning for satellite imagery (National University of Singapore)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Natural language processing of audit documents (Caisse des Dépôts)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pricing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Master Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Deep learning approaches for Sentiment140 dataset](https://github.com/XanX3601/deep_sentiment140)
+- [Black box network attack](https://github.com/minhparis/robust-neural-nets)
+- [Collaborative Filtering with a Contextual Bandits Approach](https://github.com/minhparis/linucb)
+- [Exploiting word embeddings for machine translation](https://github.com/minhparis/nlp-gan)
+- [Gradient descent optimization in Spark](https://github.com/minhparis/ml-spark)
 
 ---
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Multi agent system: [Line Production](https://github.com/minhparis/Line-Production), [Dinner Philosophy](https://github.com/minhparis/Dinner-Philosophy)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from evanca</p>
 <!-- Remove above link if you don't want to attibute -->
